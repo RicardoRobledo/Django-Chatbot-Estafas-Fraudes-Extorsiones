@@ -1,0 +1,3 @@
+Fraude de actualización de datos bancarios
+
+Un estafador llamó haciéndose pasar por un representante del banco, informando a la víctima que necesitaba actualizar sus datos bancarios para evitar la desactivación de su cuenta. La víctima, queriendo evitar problemas con su cuenta bancaria, proporcionó sus credenciales de acceso o información de la tarjeta de crédito, lo que permitió al estafador acceder a sus fondos. Los bancos nunca solicitan actualizaciones de datos sensibles por teléfono. Siempre cuelga y llama al banco directamente usando un número oficial. El estafador utilizó el temor a la interrupción de servicios bancarios para obtener información confidencial.

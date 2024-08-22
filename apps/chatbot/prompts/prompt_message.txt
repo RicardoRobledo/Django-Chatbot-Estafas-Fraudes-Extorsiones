@@ -1,0 +1,7 @@
+Lo siguiente es una pregunta que hace un usuario, debes responder en base a los documentos de contexto
+
+#### documentos
+$documents
+
+#### pregunta
+$message
