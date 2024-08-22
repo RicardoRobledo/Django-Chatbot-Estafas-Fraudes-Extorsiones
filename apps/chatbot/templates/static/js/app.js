@@ -1,5 +1,5 @@
 //const base_url = 'http://127.0.0.1:8000/';
-const base_url = 'https://django-chatbot-estafas-fraudes.onrender.com';
+const base_url = 'https://django-chatbot-estafas-fraudes.onrender.com/';
 const assistant_name = 'Asistente preventor de fraudes y extorsiones';
 const welcome_message = 'Saludos, para poder ayudarte primero necesito que me proveas de algunos datos.';
 let id_mensaje = 0;
